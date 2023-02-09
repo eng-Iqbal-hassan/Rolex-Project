@@ -144,6 +144,10 @@ main {
                         width: 17.0625rem;
                         color: #ffffff;
                     }
+                    &:hover {
+                        border: none;
+                        background-color: $bgPrimary;
+                    }
                 }
         }
     }

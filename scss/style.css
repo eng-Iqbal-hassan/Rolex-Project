@@ -161,6 +161,10 @@ main .offer .card-listing .card p {
   width: 17.0625rem;
   color: #ffffff;
 }
+main .offer .card-listing .card:hover {
+  border: none;
+  background-color: rgba(151, 136, 242, 0.1803921569);
+}
 main .seo {
   background-color: rgba(151, 136, 242, 0.1803921569);
   margin: 7.4375rem 7rem 0;
